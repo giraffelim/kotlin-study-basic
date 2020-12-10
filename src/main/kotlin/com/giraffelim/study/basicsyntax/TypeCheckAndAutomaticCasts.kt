@@ -1,4 +1,4 @@
-package com.girrafelim.study.basicsyntax
+package com.giraffelim.study.basicsyntax
 
 fun main() {
     printLength("Incomprehensibilities")

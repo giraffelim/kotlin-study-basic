@@ -1,4 +1,4 @@
-package com.girrafelim.study.basicsyntax
+package com.giraffelim.study.basicsyntax
 
 fun main() {
     val rectangle = Rectangle(5.0, 2.0)
