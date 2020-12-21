@@ -10,4 +10,5 @@ Packages and Imports - https://bit.ly/3oBV9F2
 Control Flow - https://bit.ly/3gqQ1AN  
 Returns And Jumps - https://bit.ly/39QROhf  
 Classes And Inheritance - https://bit.ly/3nDsgrU  
-Properties And Fields - https://bit.ly/2KJpcfm
+Properties And Fields - https://bit.ly/2KJpcfm  
+Interfaces - https://bit.ly/2Wye5Zd
